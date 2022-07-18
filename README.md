@@ -1,6 +1,6 @@
 # haberman-survival-dataset
 
-Copy of Haberman's Survival Data Set (<https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival>).
+Slightly modified copy of Haberman's Survival Data Set (<https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival>).
 
 ## Metadata
 
