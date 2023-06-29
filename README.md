@@ -1,6 +1,6 @@
 # haberman-survival-dataset
 
-Slightly modified copy of Haberman's Survival Data Set (<https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival>).
+Slightly modified copy of Haberman's Survival Data Set (<https://doi.org/10.24432/C5XK51>).
 
 ## Metadata
 
@@ -22,19 +22,18 @@ If you publish material based on databases obtained from this repository, then, 
 This will help others to obtain the same data sets and replicate your experiments.
 We suggest the following pseudo-APA reference format for referring to this repository:
 
-> Dua, D. and Graff, C. (2019).
-> UCI Machine Learning Repository [http://archive.ics.uci.edu/ml].
-> Irvine, CA: University of California, School of Information and Computer Science.
+> Haberman, S. (1999). Haberman's Survival. UCI Machine Learning Repository. https://doi.org/10.24432/C5XK51.
 
 Here is a BiBTeX citation as well:
 
 ```bibtex
 @misc{dua2017haberman,
-  author = {Dua, Dheeru and Graff, Casey},
-  year = {2017},
-  title = {{UCI} Machine Learning Repository},
-  url = {http://archive.ics.uci.edu/ml},
-  institution = {University of California, Irvine, School of Information and Computer Sciences}
+  author = {Haberman, S},
+  title = {{Haberman's Survival}},
+  year = {1999},
+  howpublished = {UCI Machine Learning Repository},
+  doi = {10.24432/C5XK51}
+  url = {https://doi.org/10.24432/C5XK51}
 }
 ```
 
