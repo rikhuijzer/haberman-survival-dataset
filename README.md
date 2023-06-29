@@ -27,7 +27,7 @@ We suggest the following pseudo-APA reference format for referring to this repos
 Here is a BiBTeX citation as well:
 
 ```bibtex
-@misc{dua1999haberman,
+@misc{haberman1999survival,
   author = {Haberman, S},
   title = {{Haberman's Survival}},
   year = {1999},
